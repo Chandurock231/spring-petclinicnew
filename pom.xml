@@ -393,5 +393,13 @@
       </build>
     </profile>
   </profiles>
+    <distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>a0nwiggyfdq72-artifactory-primary-0-releases</name>
+        <url>https://devops8202.jfrog.io/artifactory/logic-ops-lab--libs-release-local</url>
+    </repository>
+</distributionManagement>
+  
 
 </project>
