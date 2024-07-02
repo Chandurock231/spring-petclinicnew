@@ -15,11 +15,8 @@
   <properties>
     
    <!-- SonarQube server URL -->
+     <sonar.organization>chandujen</sonar.organization>
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-<!-- Project key -->
-<sonar.projectKey>chandujen_chandu</sonar.projectKey>
-<!-- Organization key (if applicable) -->
-<sonar.organization>chandjenc</sonar.organization>
     <!-- Generic properties -->
     <java.version>11</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
