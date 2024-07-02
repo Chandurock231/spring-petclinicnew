@@ -13,11 +13,16 @@
   <name>petclinic</name>
 
   <properties>
-    <!-- SonarQube server URL -->
-        <sonar.host.url>https://sonarcloud.io//</sonar.host.url>
-              <sonar.projectKey>chanduc_chanduc</sonar.projectKey>
-        <!-- Organization key (if applicable) -->
-        <sonar.organization>chanduc</sonar.organization>
+    
+   <!-- SonarQube server URL -->
+<sonar.host.url>
+http://your-sonarqube-server-url:9000</sonar.host.url>
+<!-- SonarQube authentication token or username/password -->
+<sonar.login>42c2d3e212d792e890087fb24c4a1bb739e271f4</sonar.login>
+<!-- Project key -->
+<sonar.projectKey>chanduc_chanduc</sonar.projectKey>
+<!-- Organization key (if applicable) -->
+<sonar.organization>chanduc</sonar.organization>
 
     <!-- Generic properties -->
     <java.version>11</java.version>
