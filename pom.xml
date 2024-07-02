@@ -16,12 +16,10 @@
     
    <!-- SonarQube server URL -->
   <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-<!-- SonarQube authentication token or username/password -->
 <!-- Project key -->
-<sonar.projectKey>chanduc_chanduc</sonar.projectKey>
+<sonar.projectKey>chandujen_chandu</sonar.projectKey>
 <!-- Organization key (if applicable) -->
-<sonar.organization>chanduc</sonar.organization>
-
+<sonar.organization>chandjenc</sonar.organization>
     <!-- Generic properties -->
     <java.version>11</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
