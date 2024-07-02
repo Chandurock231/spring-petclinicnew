@@ -15,9 +15,8 @@
   <properties>
     
    <!-- SonarQube server URL -->
-  <sonar.host.url>http://your-sonarqube-server-url:9000</sonar.host.url>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 <!-- SonarQube authentication token or username/password -->
-<sonar.login>4e4a56c16a33409e1e74a375150f210a832184d1</sonar.login>
 <!-- Project key -->
 <sonar.projectKey>chanduc_chanduc</sonar.projectKey>
 <!-- Organization key (if applicable) -->
